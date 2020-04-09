@@ -30,4 +30,4 @@ class Triangle
     def 
     end
   end
-end
+
